@@ -249,7 +249,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 👥 Credits
 
-**Yukihana** is maintained by [The OpenUwU Project](https://github.com/OpenUwU) and created by **Bre4d777**.
+**Stellar Beats** is created by **Stellar Ace**.
 
 ---
 
