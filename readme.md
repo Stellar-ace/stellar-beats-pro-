@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/github/issues/RayExo/yukihana?style=for-the-badge" alt="Issues"/>
 </p>
 
-# 🎵 Yukihana
+# 🎵 Stellar Beats
 
-**Yukihana** is a powerful and versatile Discord music bot built with Discord.js, featuring advanced sharding capabilities and a modular command architecture. Designed for high-performance music streaming and comprehensive queue management, Yukihana brings premium audio experiences to your Discord server.
+**Stellar Beats** is a powerful and versatile Discord music bot built with Discord.js, featuring advanced sharding capabilities and a modular command architecture. Designed for high-performance music streaming and comprehensive queue management, Yukihana brings premium audio experiences to your Discord server.
 
 ## ✨ Key Features
 
